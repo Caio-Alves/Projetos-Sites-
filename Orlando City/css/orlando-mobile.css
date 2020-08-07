@@ -1,0 +1,14 @@
+ /*Tamanho Padrao para tablets*/
+ @media only screen and (max-width: 768px){
+ 	.header-black ul{
+ 		display: none;
+ 	}
+ }
+ /*Tamanho Padrao para smartphone*/
+
+ @media only screen and (max-width: 480px){
+ 	.header-black ul, #menu{
+ 		display: none;
+ 	}
+
+ }
